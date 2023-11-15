@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FMBurguers</string>
+    <string name="_1_unidade_x_bacon_1_por_o_de_batata_220g_1_refrigerante_350ml_r_37_00">1 Unidade x-bacon \n1 Porção de batata 220g\n1 Refrigerante 350ml\n\n R$ 37,00</string>
+    <string name="_1_unidade_x_bacon_1_unidade_x_salada_1_por_o_de_batata_220g_1_refrigerante_350ml_r_54_00">1 Unidade x-bacon\n1 Unidade x-salada\n1 Porção de batata 220g\n1 Refrigerante 350ml \n\n R$ 54,00</string>
+    <string name="_4_unidades_x_salada_1_por_o_de_batata_400g_1_refrigerante_2l_r_99_00">4 Unidades x-salada\n1 Porção de batata 400g\n1 Refrigerante 2l \n\n R$ 99,00</string>
+    <string name="saboroso_p_o_de_gergelim_com_hamb_rguer_queijo_prato_alface_cebola_tomate_e_maionese_caseira_r_19_50">Saboroso pão de gergelim com hambúrguer, queijo prato, alface, cebola, tomate e maionese caseira\n\nR$ 19,50</string>
+    <string name="p_o_de_gergelim_hamb_rguer_presenti_mussarela_e_v_rias_fatias_de_bacon_r_25_90">Pão de gergelim, hambúrguer, presento, mussarela e várias fatias de bacon\n\nR$ 25,90</string>
+    <string name="_1_por_o_de_batata_m_dia_400g_bem_crocante_com_ketchup">1 Porção de batata média 400g bem crocante com ketchup\n\nR$ 17,00</string>
+    <string name="delicioso_hamb_rguer_de_carne_com_v_rias_fatias_de_mussarela_bacon_ovo_alface_fresca_tomate_cebola_e_maionesa_careira_r_32_00">Delicioso hambúrguer de carne com várias fatias de mussarela, bacon, ovo, alface fresca, tomate, cebola e maionesa caseira\n\n R$ 32,00</string>
+    <string name="_1_refrigerante_600ml_r_7_49">1 Refrigerante 600ml \n\nR$ 7,49</string>
+    <string name="_1_refrigerante_600ml_r_7_00">1 Refrigerante 600ml \n\nR$ 7,00</string>
+    <string name="_1_lata_de_350ml_r_5_90">1 Lata de 350ml \n\nR$ 5,90</string>
+    <string name="_1_refrigerante_2l_r_12_00">1 Refrigerante 2L \n\nR$ 12,00</string>
+    <string name="_1_bolo_de_pote_sabor_chocolate_250g_r_7_50">1 Bolo de pote sabor chocolate 250g \n\nR$ 7,50</string>
+    <string name="_1_copo_de_aca_500ml_com_diversas_frutas_r_11_00">1 Copo de acaí 500ml com diversas frutas\n\nR$ 11,00</string>
+    <string name="_5_deliciosos_mini_dunuts_r_14_00">5 Deliciosos mini dunuts \n\nR$ 14,00</string>
+
+
+</resources>
