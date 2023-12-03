@@ -31,9 +31,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/editTextPassword"
         android:layout_marginTop="45dp"
+        android:onClick="cda2"
         android:text="Login" />
 
 
-
 </RelativeLayout>
-    traintlayout.widget.ConstraintLayout>
