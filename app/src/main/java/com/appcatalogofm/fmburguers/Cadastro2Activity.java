@@ -4,24 +4,19 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-import android.widget.SearchView;
 
-public class MainActivity extends AppCompatActivity {
-    SearchView searchView;
-
-
-
+public class Cadastro2Activity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-
+        setContentView(R.layout.activity_cadastro2);
     }
 
-
+    public void irloja (View v){
+        Intent ispa = new Intent(this,MainActivity.class);
+        startActivity(ispa);
+    }
 
 }
